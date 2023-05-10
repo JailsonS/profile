@@ -18,7 +18,7 @@ Hi there 👋
 <details>
 
 <summary>Projects</summary>
-  
+<br>
 Software Engineering
 <br>
   
