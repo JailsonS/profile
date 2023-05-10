@@ -21,11 +21,10 @@ Hi there 👋
 <br>
 Software Engineering
 <br>
-  
 - Web application using whatsapp boot
 - API Rest for a barber shop (Laravel, PHP, PostgreSQL)
 - Web application[https://monitoramento.semas.pa.gov.br/ldi/] for management of environmental licenses (Java, PostgreSQL) 
-
+<br>
 Data Scientist
  <br>
 - Deep Learning application for deforestation monitoring (Python, Pytorch, PostgreSQL, Google Earth Engine)
