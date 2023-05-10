@@ -8,9 +8,9 @@ Hi there 👋
 
 <details>
 <summary>Work history</summary>
-  1. The Nature Conservancy - Geospatial Analyst (Python, Google Earth Engine, JavaScript, ArcGIS, PostgreSQL/PostGIS)
-  2. Techlead IT Solutions - Fullstack Developer (Java, PHP, NodeJS, Oracle)
-  3. IMAZON - Data Scientist (Python, JavaScript, GEE, GCP, gdal, Tensorflow, Pytorch, VueJS, Mapbox)
+  1.  The Nature Conservancy - Geospatial Analyst (Python, Google Earth Engine, JavaScript, ArcGIS, PostgreSQL/PostGIS)
+  2.  Techlead IT Solutions - Fullstack Developer (Java, PHP, NodeJS, Oracle)
+  3.  IMAZON - Data Scientist (Python, JavaScript, GEE, GCP, gdal, Tensorflow, Pytorch, VueJS, Mapbox)
 </details>
 
 <details>
