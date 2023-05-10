@@ -1,8 +1,14 @@
 Hi there 👋
+<p>
+  My name is Jailson, I am an environmental Engineer who loves nature and technology. Because of that, 
+  I have been participating in several projects related to it. Below is a brief description of my experience and such great projects I joined
+</p>
+
+
 
 <details>
-<summary>About me</summary>
-  My name is Jailson
+<summary>Work history</summary>
+
 </details>
 
 <details>
