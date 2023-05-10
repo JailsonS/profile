@@ -3,7 +3,10 @@ Hi there 👋
 <details>
 <summary>About me</summary>
   My name is Jailson
-  
+</details>
+
+<details>
+
 <summary>Projects</summary>
   
 Software Engineering
