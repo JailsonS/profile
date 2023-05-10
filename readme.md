@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 <br>
-### My name is Jailson and I will tell you a brief about me and my skills!
+My name is Jailson and I will tell you a brief about me and my skills!
 
 
 ## 👷‍♂️ work history
