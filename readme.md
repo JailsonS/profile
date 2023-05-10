@@ -27,7 +27,7 @@ Software Engineering
 - Web application[https://monitoramento.semas.pa.gov.br/ldi/] for management of environmental licenses (Java, PostgreSQL) 
 
 Data Scientist
-
+ <br>
 - Deep Learning application for deforestation monitoring (Python, Pytorch, PostgreSQL, Google Earth Engine)
 - Deep Learning application for rock outcrop map (Python, Tensorflow, Google Cloud Storage, Google Earth Engine)
 - Mapbox 3D visualizer (JS, Google Earth Engine, Mapbox)
