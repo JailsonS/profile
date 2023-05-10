@@ -1,24 +1,21 @@
-Hi there 👋
- <br>
-<p><small>
-  My name is Jailson, I am an environmental Engineer who loves nature and technology. Because of that, 
-  I have been participating in several projects related to it. Below is a brief description of my experience and some projects I joined
-</small></p>
+# 👋 Hi there! Welcome to my Github profile.
+## My name is Jailson and I will tell you a brief about me and my skills!
 
 
+## 👷‍♂️ work history
+- The Nature Conservancy - Geospatial Analyst (Python, Google Earth Engine, JavaScript, ArcGIS, PostgreSQL/PostGIS)
+- Techlead IT Solutions - Fullstack Developer (Java, PHP, NodeJS, Oracle)
+- IMAZON - Data Scientist (Python, JavaScript, GEE, GCP, gdal, Tensorflow, Pytorch, VueJS, Mapbox)
 
-<details>
-<summary>Work history</summary>
-  <br>
-  1.  The Nature Conservancy - Geospatial Analyst (Python, Google Earth Engine, JavaScript, ArcGIS, PostgreSQL/PostGIS) <br>
-  2.  Techlead IT Solutions - Fullstack Developer (Java, PHP, NodeJS, Oracle) <br>
-  3.  IMAZON - Data Scientist (Python, JavaScript, GEE, GCP, gdal, Tensorflow, Pytorch, VueJS, Mapbox) <br>
-</details>
+## 🌱 I am currently learning data engineering pipelines
+- Apache Airflow
+- Apache Spark
 
-<details>
+## Tech stacks
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-<summary>Projects</summary>
-<br>
+## Projects
+
 Software Engineering
 <br>
 - Web application using whatsapp boot
@@ -30,8 +27,3 @@ Data Scientist
 - Deep Learning application for deforestation monitoring (Python, Pytorch, PostgreSQL, Google Earth Engine)
 - Deep Learning application for rock outcrop map (Python, Tensorflow, Google Cloud Storage, Google Earth Engine)
 - Mapbox 3D visualizer (JS, Google Earth Engine, Mapbox)
-
-</details>
-
-
-mailbox Connect with me
