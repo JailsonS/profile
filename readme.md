@@ -2,7 +2,7 @@ Hi there 👋
 
 <details>
 
-<summary>## Projects</summary>
+<summary>Projects</summary>
   
 Software Engineering
 
